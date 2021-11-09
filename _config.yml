@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.MyName.com
-title: My Name
-email: email@gmail.com
-author: MYNAME
-description: "MyName's Personal Page"
+url: ml439.github.io
+title: ML
+email: example@gmail.com
+author: ML
+description: "ML's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
